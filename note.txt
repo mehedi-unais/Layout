@@ -1,0 +1,35 @@
+layout
+    float
+    flex
+    grid
+
+    folat
+        left
+        right
+ width
+ hight
+
+ serial
+ -
+ font-family
+ font-size
+ font-width
+ color
+-
+margin - padding
+     min
+     max       
+
+    overflow
+    clearfix
+
+margin - padding
+
+block level - inline element
+display
+     inline 
+     block
+     inline - block
+
+box model concept
+           
